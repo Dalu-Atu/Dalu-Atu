@@ -1,19 +1,19 @@
-# 👋 Hello, I'm Dalu-Atu
+# 👋 Hello, I'm Daniel Atu
 
-🎯 Senior Software Engineer | 🏗 Architect | 🤝 Problem Solver
+🎯 Full-Stack Engineer | 🏗 Designer | 🤝 Problem Solver
 
 ---
 
-With over a decade of experience building and scaling systems, I bring a calm, pragmatic approach to software development. I specialize in designing resilient architectures, leading engineering teams, and translating business goals into clean, maintainable code.
+I build web applications with the MERN stack that solve real business problems. Over 3 years, I've created AI tools that save educational institutions hours of work, complex web scraping systems, and data pipelines that handle real-world complexity.
 
-I value clarity over cleverness, people over process, and simplicity over trendiness.
+I value clarity over cleverness, people over process, and simplicity over trendiness. See what I've built 👇
 
 ---
 
 ## 🧠 What I Do
 
 - Architect **scalable, fault-tolerant backends**
-- Lead **engineering teams** with empathy and accountability
+- Lead **engineering** with accountability
 - Translate **business goals into technical strategy**
 - Deliver **production-ready software** with CI/CD & observability in place
 
@@ -29,19 +29,11 @@ I value clarity over cleverness, people over process, and simplicity over trendi
 
 ---
 
-## 📈 GitHub Stats
-
-![Dalu-Atu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalu-Atu&show_icons=true&hide=prs&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalu-Atu&layout=compact&theme=default)
-
----
-
 ## 🌱 Currently Focused On
 
-- Designing **distributed systems** that handle scale and failure gracefully  
-- Growing high-trust, high-performance teams  
-- Exploring **platform engineering** and **developer experience (DevEx)**
+- Turning **repetitive business problems** into clean, working software
+- Exploring **modern development practices** and improving code quality (DSA)
+- Creating **educational technology tools** that save institutions real time
 
 ---
 
