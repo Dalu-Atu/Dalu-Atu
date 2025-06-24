@@ -21,8 +21,23 @@ I value clarity over cleverness, people over process, and simplicity over trendi
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=ts,go,py,java,aws,gcp,azure,docker,kubernetes,terraform,nodejs,react,django,postgres,redis,kafka,graphql,github)
+**Languages & Frameworks:**
+![Languages](https://skillicons.dev/icons?i=ts,js,go,py,java,nodejs)
 
+**Frontend & Web:**
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,styledcomponents,html,css,sass)
+
+**Backend & APIs:**
+![Backend](https://skillicons.dev/icons?i=django,fastapi,express,graphql,apollo)
+
+**Cloud & Infrastructure:**
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,nginx)
+
+**Databases & Data:**
+![Data](https://skillicons.dev/icons?i=postgres,redis,mongodb,kafka,elasticsearch)
+
+**Tools & Workflow:**
+![Tools](https://skillicons.dev/icons?i=github,gitlab,vscode,figma,postman)
 ---
 
 ## 🧾 Quick Overview
@@ -38,12 +53,6 @@ I value clarity over cleverness, people over process, and simplicity over trendi
 ![Dalu-Atu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalu-Atu&show_icons=true&hide=prs&count_private=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalu-Atu&layout=compact&theme=default)
-
----
-
-## 📊 Contribution Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dalu-Atu&theme=github-light&area=true&hide_border=true)
 
 ---
 
