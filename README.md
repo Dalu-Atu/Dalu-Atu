@@ -20,25 +20,7 @@ I value clarity over cleverness, people over process, and simplicity over trendi
 ---
 
 ## 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-![Languages](https://skillicons.dev/icons?i=ts,js,go,py,java,nodejs)
-
-**Frontend & Web:**
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,styledcomponents,html,css,sass)
-
-**Backend & APIs:**
-![Backend](https://skillicons.dev/icons?i=django,fastapi,express,graphql,apollo)
-
-**Cloud & Infrastructure:**
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,nginx)
-
-**Databases & Data:**
-![Data](https://skillicons.dev/icons?i=postgres,redis,mongodb,kafka,elasticsearch)
-
-**Tools & Workflow:**
-![Tools](https://skillicons.dev/icons?i=github,gitlab,vscode,figma,postman)
----
+![Core Stack](https://skillicons.dev/icons?i=ts,go,aws,react,nextjs,kubernetes,postgres)
 
 ## 🧾 Quick Overview
 
