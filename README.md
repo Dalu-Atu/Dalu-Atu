@@ -20,8 +20,7 @@ I value clarity over cleverness, people over process, and simplicity over trendi
 ---
 
 ## 🛠️ Tech Stack
-![Core Stack](https://skillicons.dev/icons?i=ts,go,aws,react,nextjs,kubernetes,postgres)
-
+![Core Stack](https://skillicons.dev/icons?i=js,react,tailwind,nextjs,styledcomponents,reactquery,nodejs,express,vscode,postman,nginx,docker,aws,gcp,mongodb,supabase,github)
 ## 🧾 Quick Overview
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dalu-Atu&color=lightgray)
