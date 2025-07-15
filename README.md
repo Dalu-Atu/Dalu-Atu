@@ -47,9 +47,9 @@ I value clarity over cleverness, people over process, and simplicity over trendi
 
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio / Blog](https://yourwebsite.com)
-- 📧 [Email](mailto:your@email.com)
+- 💼 [LinkedIn](https://linkedin.com/in/Atu-Chukwudalu-Daniel)
+- 🌐 [Portfolio ](https://danieelatu-portfolio.vercel.app/)
+- 📧 [Email](mailto:danieelatu@gmail.com)
 
 ---
 
