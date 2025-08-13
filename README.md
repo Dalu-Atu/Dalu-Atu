@@ -35,7 +35,6 @@ I value:
 
 
 ## 🛠️ Tech Stack
-![Core Stack](https://skillicons.dev/icons?i=js,react,tailwind,nextjs,styledcomponents,nodejs,express,vscode,postman,docker,aws,gcp,mongodb,supabase,github)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,tailwind,nextjs,styledcomponents,nodejs,express,vscode,postman,docker,aws,gcp,mongodb,supabase,github" alt="Tech Stack Icons" />
 </p>
