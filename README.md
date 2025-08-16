@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Daniel Atu — Full-Stack Engineer" width="100%" style="max-width:1100px; border-radius:12px;" />
+  <img src="https://danieelatu-portfolio.vercel.app/portfolio.png" alt="Daniel Atu — Full-Stack Engineer" width="100%" style="max-width:1100px; border-radius:12px;" />
 </p>
 
 <h1 align="center">👋 Hello, I'm <span style="color:#4c8eda;">Daniel Atu</span></h1>
